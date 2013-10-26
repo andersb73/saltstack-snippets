@@ -1,14 +1,14 @@
 saltstack-snippets
 ==================
 
-Install Windows:
+<h2>Install Windows:</h2>
 
 Place files under:
 	
 	\AppData\Roaming\Sublime Text 2\Packages\User\YAML
 
 
-My collection of SaltStack snippets:
+<h2>My collection of SaltStack snippets:</h2>
 
 <h4 id="256dark-features">Name:</h4>
  - salt-ssymlink
