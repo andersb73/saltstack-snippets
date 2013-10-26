@@ -1,6 +1,13 @@
 saltstack-snippets
 ==================
 
+Install Windows:
+
+Place files under:
+	
+	\AppData\Roaming\Sublime Text 2\Packages\User\YAML
+
+
 My collection of SaltStack snippets:
 
 <h4 id="256dark-features">Name:</h4>
@@ -8,7 +15,7 @@ My collection of SaltStack snippets:
 
 <h4 id="256dark-features">Shortcut/Command:</h4>
  - `ssymlink`
- 
+
 <h4 id="256dark-features">Description:</h4>
 For making a file.symlink with parameters in pillar in salt.
 
