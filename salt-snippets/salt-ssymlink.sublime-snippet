@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+
+${1:ID}:
+  file.symlink:
+    - name: {{pillar['${2:pillar_name}']}}
+    - target: {{pillar['${3:pillar_name}']}}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ssymlink</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
